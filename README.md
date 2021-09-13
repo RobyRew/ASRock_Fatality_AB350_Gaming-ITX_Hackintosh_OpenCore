@@ -1,17 +1,19 @@
-# ASRock_Fatality_AB350_Gaming-ITX_Hackintosh
-Complete guide on how to install macOS using OpenCore on Motherboard ASRock Fatal1ty AB350 Gaming-ITX, Ryzen 5 3600, and ASUS 560 AREZ
+# ASRock Fatality AB350 Gaming-ITX Motherboard
+
+**This guide it's updated to OpenCore 0.7.3 and needs to be tested...**
+
 <!-- shields -->
 <div>
     <!-- downloads -->
-    <a href="https://github.com/RobyRew/ASUS-FX504GE-Hackintosh_OpenCore/releases">
-        <img src="https://img.shields.io/github/downloads/RobyRew/ASUS-FX504GE-Hackintosh_OpenCore/total" alt="downloads"/>
+    <a href="https://github.com/RobyRew/ASRock_Fatality_AB350_Gaming-ITX_Hackintosh_OpenCore/releases">
+        <img src="https://img.shields.io/github/downloads/RobyRew/ASRock_Fatality_AB350_Gaming-ITX_Hackintosh_OpenCore/total" alt="downloads"/>
     </a>
     <!-- version -->
-    <a href="https://github.com/RobyRew/ASUS-FX504GE-Hackintosh_OpenCore/releases/latest">
-        <img src="https://img.shields.io/github/release/RobyRew/ASUS-FX504GE-Hackintosh_OpenCore.svg" alt="latest version"/>
+    <a href="https://github.com/RobyRew/ASRock_Fatality_AB350_Gaming-ITX_Hackintosh_OpenCore/releases/latest">
+        <img src="https://img.shields.io/github/release/RobyRew/ASRock_Fatality_AB350_Gaming-ITX_Hackintosh_OpenCore.svg" alt="latest version"/>
     </a>
     <!-- platform -->
-    <a href="https://github.com/RobyRew/ASUS-FX504GE-Hackintosh_OpenCore">
+    <a href="https://github.com/RobyRew/ASRock_Fatality_AB350_Gaming-ITX_Hackintosh_OpenCore">
         <img src="https://img.shields.io/badge/platform-macOS-lightgrey.svg" alt="platform"/>
     </a>
 </div>
