@@ -19,4 +19,6 @@
 </div>
 </br></br>
 
+there's no guide yet..........
+
 https://www.asrock.com/mb/AMD/Fatal1ty%20AB350%20Gaming-ITXac/index.asp#Specification
