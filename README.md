@@ -1,6 +1,6 @@
 # ASRock Fatality AB350 Gaming-ITX Motherboard
 
-**This guide it's updated to OpenCore 0.6.9 and tested**
+**This guide it's updated to OpenCore 0.8.7 and tested on Big Sur, Monterrey and Ventura**
 
 <!-- shields -->
 <div>
