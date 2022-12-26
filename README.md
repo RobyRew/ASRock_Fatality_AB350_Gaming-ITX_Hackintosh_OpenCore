@@ -22,3 +22,6 @@
 there's no guide yet..........
 
 https://www.asrock.com/mb/AMD/Fatal1ty%20AB350%20Gaming-ITXac/index.asp#Specification
+
+mbarbierato on https://www.macos86.it/topic/6029-appleigb-and-intelmausi-integration/ for newer version of the kext that tries to compleatly fix the kext
+itlwm new debug version for Ventura that tries to fix some errors, works great soo far.
